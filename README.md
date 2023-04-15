@@ -135,7 +135,7 @@ When writing your script, you should speak about your entire process, including 
 
 Your video should be approximately 5 minutes in length. You can record your video in the browser or upload a video from your device below.
 
-Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning.
+Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning
 
 
 
