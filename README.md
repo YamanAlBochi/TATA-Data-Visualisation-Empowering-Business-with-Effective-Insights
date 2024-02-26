@@ -9,7 +9,7 @@ We are required 4 tasks to complete this project:
 
 3. ♦ Creating Effective Visuals
 
-4. ♦ Communicating Insights and Analysis..................
+4. ♦ Communicating Insights and Analysis.................
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
