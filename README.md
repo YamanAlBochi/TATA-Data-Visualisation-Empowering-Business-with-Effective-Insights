@@ -3,7 +3,7 @@ This project is provided by Tata iQ or Tata Insights and Quants. I discover how 
 
 We are required 4 tasks to complete this project: 
 
-1. ♦ Framing the Business Scenario.....
+1. ♦ Framing the Business Scenario....
 
 2. ♦ Choosing the Right Visuals
 
